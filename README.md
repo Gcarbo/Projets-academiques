@@ -48,6 +48,10 @@ This approach helped refine the functional annotation of a sequence, identify a 
 
 As part of this project, I conducted a literature review summarizing the current scientific understanding of the impact of Neanderthal genetic introgressions on the health of modern human populations. The work involved analyzing and synthesizing published studies, highlighting Neanderthal-derived genomic regions associated with complex pathologies, and discussing their potential role in shaping present-day disease susceptibility.
 
+## Contact
+
+feel free to contact me at gcarbo@mailo.com if you have any question.
+
 ## License
 
 CC BY-NC-ND 4.0 — sharing allowed, non-commercial use only, no modifications, attribution required.
